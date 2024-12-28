@@ -38,7 +38,7 @@ Mumbai was the most frequent location for transactions.
 *Pandas* for data manipulation and preprocessing.
 *Matplotlib* for visualizing distributions and trends.
 This analysis serves as a foundation for further exploration into customer purchasing behavior, discount strategies, and regional preferences, enabling data-driven decision-making for the e-commerce platform.
-
+## Screenshots
 BarChart_Gender_Distribution<br>
 ![App Screenshot](https://github.com/risyouss/EDA_EcommerceDATA/blob/main/visualisations/BarChart_Gender_Distribution.png)<br>
 BarChart_Location_Distribution<br>
